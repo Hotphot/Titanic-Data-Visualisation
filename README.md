@@ -1,2 +1,1 @@
-# Titanic-Data-Visualisation
-Code
+My second coding project :)
